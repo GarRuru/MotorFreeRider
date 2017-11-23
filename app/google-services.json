@@ -1,35 +1,33 @@
 {
   "project_info": {
-    "project_number": "414838360257",
-    "firebase_url": "https://motorfree-rider.firebaseio.com",
-    "project_id": "motorfree-rider",
-    "storage_bucket": "motorfree-rider.appspot.com"
+    "project_number": "525410001321",
+    "project_id": "firebase-motorfreerider"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:414838360257:android:e376b920c5dcaffd",
+        "mobilesdk_app_id": "1:525410001321:android:e376b920c5dcaffd",
         "android_client_info": {
           "package_name": "com.example.motorfreerider"
         }
       },
       "oauth_client": [
         {
-          "client_id": "414838360257-dkgfbsgdi63bfbfa9tslv3il1tscukj5.apps.googleusercontent.com",
+          "client_id": "525410001321-t4rjerm2pujgnkujaquv53kd85j8j0aq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.motorfreerider",
-            "certificate_hash": "d8c26e5a98eb9ea109727d538c7c947814d6211b"
+            "certificate_hash": "c980881cc611282219396afbcef35caaaa07a9a0"
           }
         },
         {
-          "client_id": "414838360257-3s59rvvikf8lmchrmue9d5s8ccgqi4m3.apps.googleusercontent.com",
+          "client_id": "525410001321-tbhvgiq1911a04bpp8b0gg7nlf2h95e7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAGJAAWGYjqTLR7baP7TVnTJWBQUKaY2Kk"
+          "current_key": "AIzaSyCgWRXyRQWLNWf1SmeeXJVN8XD9zBMatFU"
         }
       ],
       "services": {
@@ -37,60 +35,11 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "414838360257-3s59rvvikf8lmchrmue9d5s8ccgqi4m3.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:414838360257:android:9c7b17caf0050c60",
-        "android_client_info": {
-          "package_name": "com.example.MotorFreeRider"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "414838360257-0du0t2vp03sud64b9485u0d0718rs2ke.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.MotorFreeRider",
-            "certificate_hash": "d8c26e5a98eb9ea109727d538c7c947814d6211b"
-          }
-        },
-        {
-          "client_id": "414838360257-3s59rvvikf8lmchrmue9d5s8ccgqi4m3.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAGJAAWGYjqTLR7baP7TVnTJWBQUKaY2Kk"
-        }
-      ],
-      "services": {
-        "analytics_service": {
           "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "414838360257-3s59rvvikf8lmchrmue9d5s8ccgqi4m3.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
