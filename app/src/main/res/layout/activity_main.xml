@@ -26,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="@dimen/title_bottom_margin"
-            android:text="@string/google_title_text"
+
             android:theme="@style/ThemeOverlay.MyTitleText" />
 
         <com.google.android.gms.common.SignInButton
@@ -38,6 +38,7 @@
             android:layout_marginRight="25dp"
             android:visibility="visible"
             tools:visibility="visible" />
+
         <!--   <TextView
             android:id="@+id/status"
             style="@style/ThemeOverlay.MyTextDetail"
@@ -47,7 +48,17 @@
             android:id="@+id/detail"
             style="@style/ThemeOverlay.MyTextDetail"
             tools:text="Firebase User ID: 123456789abc" />-->
+
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp" />
     </LinearLayout>
+
 
 
     <RelativeLayout
@@ -87,4 +98,7 @@
 
     </RelativeLayout>
 
+
+
 </LinearLayout>
+

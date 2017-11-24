@@ -75,4 +75,7 @@
     <string name="id_fmt">User ID: %s</string>
     <string name="email_fmt">Email: %s</string>
     <string name="title_activity_home">Map</string>
+    <string name="facebook_app_id">1933809103315365</string>
+    <string name="fb_login_protocol_scheme">fb1933809103315365</string>
+
 </resources>
